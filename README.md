@@ -4,7 +4,7 @@
 Skills: C / Python
 
 - 🌱 I’m currently learning Fundamentals of Data Science 
-- 📫 How to reach me: imhasan0203@gmail.com 
+- 📫 How to reach me: imhasan1062@gmail.com 
 - ⚡ Fun fact: I unearth quirky GitHub treasures! 
 
 
